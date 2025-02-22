@@ -1,0 +1,25 @@
+{
+  "name": "alpinejs-xcomponent",
+  "version": "1.0.2",
+  "description": "Alpine JS reusable data components",
+  "main": "alpine-components.min.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lmanukyan/alpinejs-xcomponent.git"
+  },
+  "keywords": [
+    "Alpinejs",
+    "Alpinejs-component",
+    "Alpinejs-data",
+    "Alpinejs-template"
+  ],
+  "author": "Levon Manukyan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lmanukyan/alpinejs-xcomponent/issues"
+  },
+  "homepage": "https://github.com/lmanukyan/alpinejs-xcomponent#readme"
+}
